@@ -1,0 +1,28 @@
+* {
+  box-sizing: border-box;
+}
+
+html {
+  font-family: sans-serif;
+}
+
+body {
+  margin: 0;
+}
+
+button {
+  font-size: 18px;
+  line-height: 1.5;
+  width: 100px;
+  height: 38px;
+  border: none;
+}
+
+div {
+  height: 100px;
+  border: 1px solid black;
+}
+
+.container {
+  width: 500px;
+}
